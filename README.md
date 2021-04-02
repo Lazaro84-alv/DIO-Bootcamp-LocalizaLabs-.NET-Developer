@@ -1,0 +1,21 @@
+# Digital Innovation One - Bootcamp LocalizaLabs .NET Developer
+
+- Lógica de programação essencial
+- Aprenda o que são Estruturas de Dados e Algoritmos
+- Introdução ao Git e ao GitHub
+- Primeiros passos com .NET + C#
+- Orientação a objetos em .NET
+- Solução de problemas em C# (Desafios de código)
+- Criando uma aplicação de transferências bancárias com .NET
+- Fundamentos de Arquitetura de Sistemas
+- Desafios Aritméticos em C#
+- Criando um APP simples de cadastro de series em .NET
+- SQL SERVER - Criando suas primeiras consultas
+- Introdução a orquestração de contêineres com Docker
+- Desenvolvimento de aplicações com .NET
+- Implementando sua stack de testes de unidade e integração em um projeto .NET de Crowdfunding
+- Praticando programação em C# (Desafios de código)
+- Projeto ágeis com SCRUM
+- Arquitetura de Sistema Avançado
+- Configuração da arquitetura back-end com .NET Core
+- Construindo um projeto de uma API.NET integrada ao MongoDB
